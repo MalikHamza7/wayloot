@@ -300,7 +300,13 @@ Special thanks to:
 
 ---
 
-**WayLoot v3.0** - Proudly developed by **Hamza Iqbal** 🏆  
-Making bug bounty reconnaissance more efficient, comprehensive, and beautiful! 🎯
+**WayLoot v3.0** - 
 
-*"Empowering ethical hackers with advanced tools and beautiful interfaces"* - Hamza Iqbal
+![image](https://github.com/user-attachments/assets/2044f482-3313-4b03-978e-132f002db00f)
+
+![image](https://github.com/user-attachments/assets/864f251f-146a-4d68-b41c-438ba4f22f02)
+
+![image](https://github.com/user-attachments/assets/1b5c96f7-660e-4df7-ac51-ac6b7a0c1725)
+
+
+
