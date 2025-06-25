@@ -14,16 +14,6 @@ WayLoot v3.0 features a completely redesigned terminal interface with:
 - **Statistics Tables** for comprehensive reporting
 - **Professional Footer** with acknowledgments
 
-## 👨‍💻 Developer Credits
-
-**WayLoot v3.0** is proudly developed by **Hamza Iqbal**, a passionate security researcher and bug bounty hunter dedicated to creating tools that empower the ethical hacking community.
-
-### 🏆 About the Developer
-- **Name:** Hamza Iqbal
-- **Specialization:** Bug Bounty Hunting & Penetration Testing
-- **Mission:** Empowering security researchers with advanced reconnaissance tools
-- **Year:** 2024
-
 ## 🚀 New Features in v3.0
 
 ### 🎯 Enhanced User Interface
