@@ -1,6 +1,5 @@
-# WayLoot v3.0 - Advanced Bug Bounty & Penetration Testing Tool
+# WayLoot 
 
-**Developed by Hamza Iqbal** 🏆
 
 WayLoot v3.0 is a comprehensive, feature-rich tool designed for bug bounty hunters and penetration testers. It automates the process of gathering, analyzing, and discovering security-relevant information from the Wayback Machine and live targets with a beautiful, intuitive interface.
 
